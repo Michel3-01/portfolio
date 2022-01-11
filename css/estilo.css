@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+.cabecalho h1{
+    font-family: 'Audiowide', cursive;
+    font-size: 35pt;
+}
+.cabecalho p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20pt;
+}
+.cabecalho{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    margin: 0;
+}
+body{
+    background-color:rgb(41, 41, 42);
+}
+.estilo{
+    margin-top: 40px;
+    color: white;
+}
+.estilo p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15pt;
+}
+.estilo h2{
+    font-family: 'Luckiest Guy', cursive;
+}
